@@ -1,5 +1,7 @@
 #Survive The Deep End: PHP Security
 
+https://phpsecurity.readthedocs.io/en/latest/index.html
+
 Copyright (c) 2012 Padraic Brady
 
 The book is currently in draft so relax. I will be accepting PRs once the chapter count gets up to around five so there is enough material to both release something useful and to invite contributions.
